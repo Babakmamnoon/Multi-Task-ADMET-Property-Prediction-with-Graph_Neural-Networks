@@ -5,6 +5,12 @@ A production-grade, end-to-end deep learning pipeline for predicting **Absorptio
 
 The notebook is fully self-contained and executable in Google Colab with zero manual configuration.
 
+## Launch Notebook
+
+Run this notebook instantly in Google Colab (No installation required).
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Babakmamnoon/Multi-Task-ADMET-Property-Prediction-with-Graph_Neural-Networks/blob/main/admet_multitask_gnn.ipynb)
+
 ---
 
 ## Project Goals
