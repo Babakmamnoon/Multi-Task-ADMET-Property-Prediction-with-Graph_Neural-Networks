@@ -9,8 +9,7 @@ The notebook is fully self-contained and executable in Google Colab with zero ma
 
 Run this notebook instantly in Google Colab (No installation required).
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Babakmamnoon/Multi-Task-ADMET-Property-Prediction-with-Graph_Neural-Networks/blob/main/admet_multitask_gnn.ipynb)
-
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Babakmamnoon/Multi-Task-ADMET-Property-Prediction-with-Graph_Neural-Networks/blob/main/admet_multitask_gnn_v6.ipynb)
 ---
 
 ## Project Goals
